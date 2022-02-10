@@ -1,0 +1,6 @@
+scipy==1.8.0
+ipywidgets==7.6.5
+matplotlib==3.5.1
+ipython==7.31.1
+ipympl==0.8.7
+jupyterlab-hide-code==3.2.9
