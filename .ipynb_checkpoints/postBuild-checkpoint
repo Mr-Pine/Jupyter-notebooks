@@ -1,5 +1,5 @@
-jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter nbextension enable widgetsnbextension
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
 jupyter labextension install jupyter-matplotlib
-jupyter nbextension install --py --symlink --sys-prefix ipympl
-jupyter nbextension enable --py --symlink --sys-prefix ipympl
+jupyter nbextension install --py --sys-prefix ipympl
+jupyter nbextension enable --py --sys-prefix ipympl
